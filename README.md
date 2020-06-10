@@ -1,2 +1,2 @@
 # pbi
-Power BI Exercises
+**Power BI Exercises**
